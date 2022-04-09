@@ -1,0 +1,41 @@
+.createBlogDiv h2 {
+  color: #619cec;
+  font-size: 2rem;
+}
+
+.createBlogForm {
+  margin: auto;
+  width: 80%;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+}
+
+.createBlogForm input,
+textarea {
+  width: 90%;
+  margin: 1rem auto 1rem auto;
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  outline: none;
+}
+
+.createBlogForm input {
+  height: 3rem;
+  border-radius: 1rem;
+}
+
+.createBlogForm textarea {
+  overflow-y: scroll;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.createBlogForm button {
+  width: 25%;
+  height: 2.5rem;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  background-color: green;
+  color: white;
+  border-radius: 1rem;
+}

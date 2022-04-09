@@ -1,0 +1,9 @@
+.footer {
+  background-color: #619cec;
+  color: white;
+  padding: 0.5rem;
+}
+
+.footer i {
+  margin-left: 1rem;
+}

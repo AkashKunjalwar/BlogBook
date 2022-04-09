@@ -1,0 +1,50 @@
+.addImages {
+  display: flex;
+}
+
+.addImages h2 {
+  text-align: left;
+  margin-left: 2rem;
+  font-size: 2rem;
+  color: #619cec;
+  flex: 90%;
+}
+
+.addImages button {
+  margin-right: 2rem;
+  font-size: 1rem;
+  background-color: #619cec;
+  color: white;
+  flex: 10%;
+  height: 2.5rem;
+  margin-top: 2rem;
+}
+
+.imageGridDiv {
+  border-style: solid;
+  border-color: #619cec;
+  width: 85%;
+  max-height: 700px;
+  margin: auto;
+  margin-bottom: 1rem;
+  overflow-y: scroll;
+}
+
+.imagesGrid {
+  width: 100%;
+  height: 50%;
+  display: flex;
+}
+
+.column {
+  flex: 30%;
+  border-style: solid;
+  border-color: #619cec;
+  max-width: 33%;
+}
+
+.column img {
+  width: 100%;
+  height: 100%;
+  padding: auto;
+}

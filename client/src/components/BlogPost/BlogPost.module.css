@@ -1,0 +1,36 @@
+.blog {
+  border-style: groove;
+  border-color: #619cec;
+  border-radius: 1rem;
+  width: 90%;
+  margin: 2rem auto 2rem auto;
+}
+
+.actions {
+  display: flex;
+}
+
+.actions button {
+  flex: 15%;
+  height: 40px;
+  background-color: #619cec;
+  color: white;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  margin: 2% 20% 2% 20%;
+}
+
+.blog h2 {
+  color: #619cec;
+  font-size: 3rem;
+}
+
+.blog h4 {
+  font-size: 2rem;
+}
+
+.blog p {
+  font-size: 1.5rem;
+  text-align: justify;
+  margin: auto 3rem 2rem 3rem;
+}

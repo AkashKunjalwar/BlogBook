@@ -1,0 +1,27 @@
+.nav {
+  flex: 35%;
+  margin-top: 1.25rem;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav ul li {
+  margin-left: 3.5rem;
+}
+
+.navLocation {
+  margin-right: 5.25rem;
+  margin-top: 1.25rem;
+}
+
+.navLocation ul {
+  list-style: none;
+  display: flex;
+}
+
+.navLocation ul li {
+  margin-left: 3.5rem;
+}

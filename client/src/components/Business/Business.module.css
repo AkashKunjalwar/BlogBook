@@ -1,0 +1,42 @@
+.business h2 {
+  color: #619cec;
+  font-size: 2rem;
+}
+
+.business h5 {
+  color: #619cec;
+  font-size: 1rem;
+}
+
+.form {
+  border-style: solid;
+  border-color: #619cec;
+  border-radius: 1rem;
+  width: 70%;
+  margin: 1rem auto 2rem auto;
+}
+
+.form input {
+  width: 90%;
+  height: 2.5rem;
+  padding-left: 1rem;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  outline: none;
+}
+
+.form textarea {
+  width: 92%;
+  margin: 2rem auto 1rem auto;
+  outline: none;
+  font-size: 1.5rem;
+}
+
+.form button {
+  margin-bottom: 1rem;
+  height: 2.5rem;
+  width: 10%;
+  background-color: green;
+  color: white;
+  font-size: 1.25rem;
+}
